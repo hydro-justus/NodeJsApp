@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 
 app.get('/', (req, res) => {
-  res.send('🚀 Deployed via GitHub Actions to AWS Elastic Beanstalk');
+  res.send('🚀 Deployed via CLI Actions to AWS Elastic Beanstalk');
 });
 
 const PORT = process.env.PORT || 3000;
