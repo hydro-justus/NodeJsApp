@@ -25,7 +25,7 @@ This project showcases a streamlined, automated CI/CD pipeline for deploying a N
 
 ## 🎬 Live YouTube Tutorial
 
-For a comprehensive step-by-step tutorial, watch my [full video walkthrough on YouTube](https://www.youtube.com/) *(link coming soon)*.
+For a comprehensive step-by-step tutorial, watch my [full video walkthrough on YouTube] https://www.youtube.com/watch?v=WEin5GTpVAk&t=1s
 
 ---
 
